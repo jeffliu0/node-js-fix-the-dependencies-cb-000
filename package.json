@@ -14,7 +14,8 @@
     "learn",
     "npm",
     "node",
-    "javascript"
+    "javascript",
+    "mocha"
   ],
   "license": "SEE LICENSE IN LICENSE.md",
   "bugs": {
@@ -22,6 +23,8 @@
   },
   "homepage": "https://github.com/learn-co-curriculum/node-js-fix-the-dependencies#readme",
   "devDependencies": {
-    "chai-spies": "^0.7.1"
-  }
+    "chai-spies": "^0.7.1",
+    "mocha": "^5.2.0"
+  },
+  "dependencies": {}
 }
